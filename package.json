@@ -1,0 +1,22 @@
+{
+  "name": "lctv-bot-vote-plugin",
+  "version": "1.0.0",
+  "description": "Vote system plugin for the LCTV Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenconti/lctv-bot-vote-plugin.git"
+  },
+  "author": "Owen Conti <owen@ohseemedia.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenconti/lctv-bot-vote-plugin/issues"
+  },
+  "homepage": "https://github.com/owenconti/lctv-bot-vote-plugin#readme",
+  "dependencies": {
+    "moment": "^2.10.6"
+  }
+}
